@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SexMod 1.12.2 new forge
+Implementation-Version: 1.5.2
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2022-05-31T03:45:54+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
